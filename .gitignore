@@ -1,0 +1,6 @@
+# ignore files
+*.hcl
+*.tfstate
+*.backup
+*.terraform
+buildfarm_key_for_ec2*
